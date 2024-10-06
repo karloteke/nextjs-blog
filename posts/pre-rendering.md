@@ -11,14 +11,15 @@ El ronroneo es probablemente una de las formas más comunes en que los gatos se 
 
 ### 2. Los movimientos de la cola
 
-- **Cola levantada**: Un gato con la cola bien levantada generalmente está contento y seguro de sí mismo.
-- **Cola agitada**: Si la cola de tu gato se mueve de un lado a otro rápidamente, es posible que esté irritado o a punto de enfadarse.
-- **Cola inflada**: Esto es una señal de miedo o agresión. Tu gato está tratando de parecer más grande para defenderse de una amenaza.
+- **- Cola levantada**: Un gato con la cola bien levantada generalmente está contento y seguro de sí mismo.
+- **- Cola agitada**: Si la cola de tu gato se mueve de un lado a otro rápidamente, es posible que esté irritado o a punto de enfadarse.
+- **- Cola inflada**: Esto es una señal de miedo o agresión. Tu gato está tratando de parecer más grande para defenderse de una amenaza.
+
 
 ### 3. Las orejas y su lenguaje
+- **- Orejas hacia adelante**: Cuando las orejas están apuntando hacia adelante, tu gato está curioso y atento.
+- **- Orejas hacia atrás o pegadas a la cabeza**: Esto puede ser una señal de miedo o agresión. Si tu gato está en esta posición, es mejor darle un poco de espacio.
 
-- **Orejas hacia adelante**: Cuando las orejas están apuntando hacia adelante, tu gato está curioso y atento.
-- **Orejas hacia atrás o pegadas a la cabeza**: Esto puede ser una señal de miedo o agresión. Si tu gato está en esta posición, es mejor darle un poco de espacio.
 
 ### 4. El parpadeo lento: La señal de amor felino
 

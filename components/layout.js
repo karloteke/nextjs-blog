@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Carlota';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'Blog Gatuno 🐱';
 
 export default function Layout({ children, home }) {
   return (
@@ -61,7 +61,11 @@ export default function Layout({ children, home }) {
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
-          <Link href="/">← Back to home</Link>
+           <Link href="/">
+            <span className="inline-block px-4 py-2 mt-4 text-white bg-blue-500 rounded hover:bg-blue-600 transition duration-300">
+              ← Back to home
+            </span>
+          </Link>
         </div>
       )}
     </div>
