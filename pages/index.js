@@ -20,11 +20,11 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Blog Gatuno 🐱</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>¡Bienvenido a Mi Blog Gatuno 🐱!</p>
-        <p>
+        <p class="font-mono text-center mb-6">¡Bienvenido a Mi Blog Gatuno 🐱!</p>
+        <p class="font-serif  text-gray-700">
         ¡Hola a todos los amantes de los gatos! 🐾 Si estás aquí, es porque compartes conmigo una gran pasión: ¡los gatos! Este blog es un lugar especial donde exploraremos todo lo relacionado con estos maravillosos felinos.
         Desde consejos sobre el cuidado, la alimentación y la salud de nuestros amigos peludos, hasta curiosidades sobre su comportamiento, historias divertidas y cómo hacer que tu hogar sea el paraíso para tu gato. Mi objetivo es que este espacio sea útil tanto para quienes son nuevos en el mundo gatuno, como para quienes ya llevan años rodeados de ronroneos y patas suaves.
         Ya sea que busques tips para entender mejor a tu gato, o simplemente quieras disfrutar de lindas fotos y anécdotas gatunas, aquí encontrarás todo lo que necesitas.
