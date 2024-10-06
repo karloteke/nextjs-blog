@@ -23,10 +23,12 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>¡Bienvenido a Mi Blog Gatuno 🐱!</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+        ¡Hola a todos los amantes de los gatos! 🐾 Si estás aquí, es porque compartes conmigo una gran pasión: ¡los gatos! Este blog es un lugar especial donde exploraremos todo lo relacionado con estos maravillosos felinos.
+        Desde consejos sobre el cuidado, la alimentación y la salud de nuestros amigos peludos, hasta curiosidades sobre su comportamiento, historias divertidas y cómo hacer que tu hogar sea el paraíso para tu gato. Mi objetivo es que este espacio sea útil tanto para quienes son nuevos en el mundo gatuno, como para quienes ya llevan años rodeados de ronroneos y patas suaves.
+        Ya sea que busques tips para entender mejor a tu gato, o simplemente quieras disfrutar de lindas fotos y anécdotas gatunas, aquí encontrarás todo lo que necesitas.
+        ¡Gracias por acompañarme en esta aventura felina! Espero que disfrutes de cada post, y no dudes en compartir tus experiencias y amor por los gatos en los comentarios. 🐱💕
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
