@@ -1,0 +1,17 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root  # Establece la contraseña para el usuario root
+      MYSQL_DATABASE: bd_mysql    # Crea la base de datos llamada bd_mysql
+    ports:
+      - "3307:3306"  # Mapea el puerto 3306 del contenedor al puerto 3306 del host
+    volumes:
+      - db_data:/var/lib/mysql  # Persistencia de datos
+
+volumes:
+  db_data:
